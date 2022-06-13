@@ -1,0 +1,5 @@
+Hello everyone, I learning a selenium webdriver with python. I use Pycharm. This project allow me few things, for example how to this project to Page Object Pattern.
+
+Next step:
+Write code which one checking toolbar.
+Add to self.assert and transfer this project to Page Object Pattern
